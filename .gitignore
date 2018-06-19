@@ -1,0 +1,11 @@
+# Ignore npm installed packages
+/node_modules
+
+# Ignore npm debug log file
+/npm-debug.log
+
+# Built files
+/.broiler
+
+# Ignore OS X hidden files
+.DS_Store
