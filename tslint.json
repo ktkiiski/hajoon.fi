@@ -5,6 +5,9 @@
         "interface-name": false,
         "max-classes-per-file": false,
         "max-line-length": false,
+        "no-console": {
+            "severity": "warning"
+        },
         "no-bitwise": false,
         "no-require-imports": false,
         "no-var-requires": false,
